@@ -1,0 +1,10 @@
+class TestData:
+    CHROME_EXECUTABLE_PATH = "D:\\pycharm Projects\\POM Bilytica\\webDriver\\chromedriver.exe"
+    BASE_URL = "http://haier.peopleqlik.pk/"
+    USER_NAME = "1"
+    PASSWORD = "123456"
+    HOME_PAGE_TITLE = "PeopleQlik | HR System"
+    #HEADER_VALUE = "Home"
+    HEADER_VALUE = "Full Profile"
+    USER_NAME_testing = ""
+    PASSWORD_testing = ""
